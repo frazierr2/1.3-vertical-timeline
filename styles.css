@@ -7,7 +7,6 @@ body{
   /*display: inline-block;*/
   /*margin: 0 auto;
   padding: 0;*/
-
 }
 
 .timeline{
@@ -58,7 +57,7 @@ body{
 .inside-content{
   border: 2px solid #79C0E7;
   width: 777px;
-  height: 377px;
+  /*height: 377px;*/
   background-color: #79C0E7;
   color: #FFFFFF;
   text-align:left;
